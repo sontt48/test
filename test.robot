@@ -6,3 +6,4 @@ Library    SeleniumLibrary
 test1 
     Open Browser    https://shopee.vn/    chrome
     Maximize Browser Window
+    Close Browser
