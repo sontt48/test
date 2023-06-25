@@ -4,5 +4,5 @@ Library    SeleniumLibrary
 ***Test Cases***
 
 test1 
-    Open Browser    https://tiki.vn/    chrome
+    Open Browser    https://shopee.vn/    chrome
     Maximize Browser Window
