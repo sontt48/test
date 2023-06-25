@@ -1,4 +1,4 @@
-selenium>=3.141.0,<4.0.0
+selenium==4.9.0
 RESTinstance==1.2.0
 robotframework==4.1.1
 robotframework-appiumlibrary==1.5.0.6
